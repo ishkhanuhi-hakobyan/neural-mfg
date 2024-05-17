@@ -2,6 +2,3 @@ model_checkpoint_*
 wandb/
 __pychache__
 .idea
-src/__pychache__
-src/models/__pychache__
-src/utils/__pychache__
