@@ -1,0 +1,4 @@
+model_checkpoint_*
+wandb/
+__pychache__
+.idea
