@@ -1,0 +1,22 @@
+name: neural_mfg
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - pip
+  - python
+  - hydra-core
+  - rich
+  - pytorch-lightning
+  - pytorch
+  - pandas
+  - python-dotenv
+  - wandb
+  - torchvision
+  - cudatoolkit
+  - matplotlib
+  - scipy
+  - pip:
+      - lightning-bolts
+      - aim
